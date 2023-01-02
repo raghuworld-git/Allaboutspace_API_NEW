@@ -1,0 +1,12 @@
+C:\Workspace\dotnet\Allaboutspace_API\Models\bin\Debug\net6.0\Models.deps.json
+C:\Workspace\dotnet\Allaboutspace_API\Models\bin\Debug\net6.0\Models.dll
+C:\Workspace\dotnet\Allaboutspace_API\Models\bin\Debug\net6.0\Models.pdb
+C:\Workspace\dotnet\Allaboutspace_API\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\Workspace\dotnet\Allaboutspace_API\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dotnet\Allaboutspace_API\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Workspace\dotnet\Allaboutspace_API\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Workspace\dotnet\Allaboutspace_API\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet\Allaboutspace_API\Models\obj\Debug\net6.0\Models.dll
+C:\Workspace\dotnet\Allaboutspace_API\Models\obj\Debug\net6.0\refint\Models.dll
+C:\Workspace\dotnet\Allaboutspace_API\Models\obj\Debug\net6.0\Models.pdb
+C:\Workspace\dotnet\Allaboutspace_API\Models\obj\Debug\net6.0\ref\Models.dll

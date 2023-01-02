@@ -1,0 +1,17 @@
+C:\Workspace\dotnet\Allaboutspace_API\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Workspace\dotnet\Allaboutspace_API\Repository\bin\Debug\net6.0\Repository.dll
+C:\Workspace\dotnet\Allaboutspace_API\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Workspace\dotnet\Allaboutspace_API\Repository\bin\Debug\net6.0\Core.dll
+C:\Workspace\dotnet\Allaboutspace_API\Repository\bin\Debug\net6.0\HttpWrapper.dll
+C:\Workspace\dotnet\Allaboutspace_API\Repository\bin\Debug\net6.0\HttpWrapper.pdb
+C:\Workspace\dotnet\Allaboutspace_API\Repository\bin\Debug\net6.0\Core.pdb
+C:\Workspace\dotnet\Allaboutspace_API\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Workspace\dotnet\Allaboutspace_API\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dotnet\Allaboutspace_API\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Workspace\dotnet\Allaboutspace_API\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Workspace\dotnet\Allaboutspace_API\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet\Allaboutspace_API\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Workspace\dotnet\Allaboutspace_API\Repository\obj\Debug\net6.0\Repository.dll
+C:\Workspace\dotnet\Allaboutspace_API\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Workspace\dotnet\Allaboutspace_API\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Workspace\dotnet\Allaboutspace_API\Repository\obj\Debug\net6.0\ref\Repository.dll

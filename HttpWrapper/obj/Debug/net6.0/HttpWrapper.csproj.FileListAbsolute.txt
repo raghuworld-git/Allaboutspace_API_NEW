@@ -1,0 +1,15 @@
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\bin\Debug\net6.0\HttpWrapper.deps.json
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\bin\Debug\net6.0\HttpWrapper.dll
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\bin\Debug\net6.0\HttpWrapper.pdb
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\bin\Debug\net6.0\Core.dll
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\bin\Debug\net6.0\Core.pdb
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\obj\Debug\net6.0\HttpWrapper.csproj.AssemblyReference.cache
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\obj\Debug\net6.0\HttpWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\obj\Debug\net6.0\HttpWrapper.AssemblyInfoInputs.cache
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\obj\Debug\net6.0\HttpWrapper.AssemblyInfo.cs
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\obj\Debug\net6.0\HttpWrapper.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\obj\Debug\net6.0\HttpWrapper.csproj.CopyComplete
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\obj\Debug\net6.0\HttpWrapper.dll
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\obj\Debug\net6.0\refint\HttpWrapper.dll
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\obj\Debug\net6.0\HttpWrapper.pdb
+C:\Workspace\dotnet\Allaboutspace_API\HttpWrapper\obj\Debug\net6.0\ref\HttpWrapper.dll
